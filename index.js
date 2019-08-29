@@ -1,1 +1,2 @@
-console.log("Javascript is awesome!!!");
+const outputDiv = document.querySelector(".output");
+console.dir(outputDiv);
